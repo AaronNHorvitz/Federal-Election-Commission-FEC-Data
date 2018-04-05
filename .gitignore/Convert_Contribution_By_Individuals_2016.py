@@ -57,7 +57,8 @@
 #WARNING: This step could take a long time, because it has to convert 22 million rows of data to a CSV format. 
 #
 #When it's done, it will also allow you to to browse the individual donations in a pandas datframe. 
-#You will see their name, employer, occupation, state, city, zip code, the amount donated, the date of donation, and to where it was donated to.
+#You will see their name, employer, occupation, state, city, zip code, the amount donated, the date of donation, and which election 
+#campaign it was donated to.
 #
 #The CSV file will be named 'individual_contributions_2016.csv' and it will be found in the 'C:/Election Year 2016/' directory.
 #
