@@ -81,7 +81,7 @@ contributions_df = pd.read_csv(contributions_filepath,encoding = "ISO-8859-1",se
 #Write the converted file to CSV format. 
 contributions_df.to_csv(contributions_csv_filepath)   
 
-#Dispalys some of the contents of the dataframe. 
+#Displays some of the contents of the dataframe. 
 contributions_df.head(100)  
 
 
