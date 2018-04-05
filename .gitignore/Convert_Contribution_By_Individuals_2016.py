@@ -8,7 +8,7 @@
 # in JMP or by using Pandas.
 
 #The FEC gives the column names of the data in a different file titled "Comma Delimitted Header File" in CSV format.  
-##This can be confusing because you need to add names to the columns of data or the data will not make any sense. 
+#This can be confusing because you need to add names to the columns of data or the data will not make any sense. 
 
 #The Contributions by Individuals file and all the other associated and downloadable files are txt files, delimited in ASCII-28 format, 
 #separated by a '|'. Therefore it's only possible to read the data into a Pandas dataframe by using the line: 
